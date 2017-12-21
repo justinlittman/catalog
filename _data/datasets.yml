@@ -17,6 +17,23 @@
 #     about how it was created and for what purpose. Add as much detail as
 #     you want.
 
+- title: U.S. Government Tweet Ids
+  tweets: "7,898,711"
+  creator:
+    - Justin Littman
+    - Laura Wrubel
+    - Daniel Kerchner
+  url: http://dx.doi.org/10.7910/DVN/2N3HHD
+  published: 2017-12-20
+  added: 2017-12-20T12:00:00-05:00
+  tags:
+    - government
+  dates: 2007-04-22 - 2017-12-20
+  description: >
+    This dataset contains the tweet ids of 7,898,711 tweets for approximately 
+    3400 U.S. government accounts. These are accounts that are associated with 
+    federal government agencies, not individuals.
+
 - title: "DocNow Digital Blackness"
   creator: Bergis Jules
   url: https://dash.ucr.edu/stash/dataset/doi:10.6086/D1808K
